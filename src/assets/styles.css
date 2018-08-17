@@ -1,0 +1,29 @@
+.header{
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
+  .main{
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
+  .nav{
+    visibility: hidden;
+  }
+  .movie-popup{
+
+    background: rgba(33, 155, 217, 0.80) !important;
+  }
+
+  .movie__poster{
+
+    top: 35% !important;
+    width: 35% !important;
+  }
+  .movie__title{
+
+  margin-left: 0% !important;
+  }
+  .home__header{
+
+    height: 600px !important;
+  }
